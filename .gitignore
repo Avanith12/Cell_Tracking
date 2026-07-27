@@ -1,0 +1,32 @@
+# Competition data (symlink to scratch / large local copies)
+data
+data/
+*.zarr/
+*.geff/
+*.zip
+
+# Local submission / outputs
+submission.csv
+*.csv
+
+# Duplicate / scratch notebooks
+analysis copy.ipynb
+Untitled*.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

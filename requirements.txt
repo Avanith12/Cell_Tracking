@@ -1,0 +1,15 @@
+# Biohub cell tracking — local deps
+# Install into the cell_tracking conda env (see setup_env.sh)
+zarr
+blosc2
+numcodecs
+matplotlib
+scikit-image
+scipy
+pandas
+networkx
+geff
+ipykernel
+kaggle
+numpy
+tqdm
